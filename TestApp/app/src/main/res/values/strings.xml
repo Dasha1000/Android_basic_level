@@ -3,4 +3,6 @@
     <string name="Minsk">Минск - столица Беларуси.</string>
     <string name="btnNow">Нет</string>
     <string name="btnYes">Да</string>
+    <string name="correct_answer">Правильный ответ</string>
+    <string name="incorrect_answer">Неправильный ответ</string>
 </resources>
