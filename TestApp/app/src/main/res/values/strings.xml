@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Test app</string>
-    <string name="Minsk">Минск - столица Беларуси.</string>
-    <string name="btnNow">Нет</string>
-    <string name="btnYes">Да</string>
-    <string name="correct_answer">Правильный ответ</string>
-    <string name="incorrect_answer">Неправильный ответ</string>
+    <string name="Minsk">Is Minsk the capital of Belarus?</string>
+    <string name="btnNow">No</string>
+    <string name="btnYes">Yes</string>
+    <string name="correct_answer">Correct answer</string>
+    <string name="incorrect_answer">Incorrect answer</string>
 </resources>
