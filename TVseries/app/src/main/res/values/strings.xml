@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TV series</string>
+    <string name="choose_a_series">Choose a series</string>
+    <string name="tv_series">TV series</string>
+    
+    <string-array name="choose_genre">
+        <item>Comedies</item>
+        <item>Fantasy</item>
+        <item>Detectives</item>
+        <item>Dramas</item>
+    </string-array>
+</resources>
