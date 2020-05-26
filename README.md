@@ -1,4 +1,4 @@
-# This is a simple application showing how the event handler works when a button is clicked.
+# TestApp is a simple application showing how the event handler works when a button is clicked.
 
 <p align="center">
 	<img src="https://github.com/Dasha1000/Android_basic_level/blob/master/Screenshot/design.PNG" width="30%"/>
