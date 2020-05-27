@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Send Intent App</string>
+    <string name="btn_send">Pass</string>
+    <string name="send_text">Pass me to a new window</string>
+</resources>
